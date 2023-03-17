@@ -10,3 +10,5 @@
 ☐ Altere o controller PaginasController.showFilme para que ele possa carregar os dados do filme requerido e passar esses dados para a view filme.ejs
 ☐ Altere a view filme.ejs para que ela mostra informações do filme escolhido
 ☐ Externalize a head para um arquivo head.ejs e utilize-o em todas as páginas
+
+oi
